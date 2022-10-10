@@ -2,8 +2,8 @@
 
 let num = 10;
 
-if(num % 3 == 0){
-	console.log("Even");
+if(num % 2 == 0){
+	console.log("Even Number");
 }else{
-	console.log("Odd");
+	console.log("Odd Number");
 }
